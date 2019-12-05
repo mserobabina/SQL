@@ -37,7 +37,7 @@
    - WHERE
    
 ## Data Modeling 
-Inspecting the CSVs and sketching out an ERD of the tables
+Inspecting the CSVs and sketching out an ERD of the tables 
 
 
 ![Test Image 3](https://github.com/mserobabina/MariaS/blob/master/SQL/QuickDBDiagrams.png)
