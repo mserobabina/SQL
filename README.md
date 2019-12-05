@@ -36,7 +36,7 @@
    - GROUP BY
    - WHERE
    
-## Data Modeling
+## Data Modeling 
 Inspecting the CSVs and sketching out an ERD of the tables
 
 
