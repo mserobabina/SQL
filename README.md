@@ -28,10 +28,10 @@
    - SELECT
    - APPEND
    - DELET
-   - UPDATE
+   - UPDATE 
    - JOIN
    ### Aggregate Functions:
-   - SUM
+   - SUM 
    - COUNT
    - GROUP BY 
    - WHERE
