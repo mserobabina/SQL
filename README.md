@@ -21,19 +21,19 @@
    ### Data Definition Language Statements:
    - CREATE TABLE
    - ALTER
-   - DROP
+   - DROP 
    - CREATE VIEW
    - DROP VIEW
-   ### Data Manipulation Language Statements:
+   ### Data Manipulation Language Statements: 
    - SELECT
    - APPEND
    - DELET
-   - UPDATE 
+   - UPDATE  
    - JOIN
    ### Aggregate Functions:
    - SUM 
    - COUNT
-   - GROUP BY 
+   - GROUP BY  
    - WHERE
    
 ## Data Modeling 
