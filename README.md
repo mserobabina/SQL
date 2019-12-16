@@ -9,7 +9,7 @@
 
 ## Data Analysis
 - Listing the following details of each employee: employee number, last name, first name, gender, and salary
-- Listing employees who were hired in 1986
+- Listing employees who were hired in 1986   
 - Listing the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name, and start and end employment dates
 - Listing the department of each employee with the following information: employee number, last name, first name, and department name
 - Listing all employees whose first name is "Hercules" and last names begin with "B"
@@ -33,7 +33,7 @@
    ### Aggregate Functions:
    - SUM
    - COUNT
-   - GROUP BY
+   - GROUP BY 
    - WHERE
    
 ## Data Modeling 
