@@ -2,12 +2,12 @@
 
  DDL was used to create tables, update the fields in an existing table. A set of commands were used to manipulate data stored in database.
  
- ## Data Engineering  
+ ## Data Engineering   
 - Using the information to create a table schema for each of the six CSV files
-- Specifing data types, primary keys, foreign keys, and other constraints
+- Specifing data types, primary keys, foreign keys, and other constraints 
 - Import each CSV file into the corresponding SQL table
   
-## Data Analysis
+## Data Analysis  
 - Listing the following details of each employee: employee number, last name, first name, gender, and salary
 - Listing employees who were hired in 1986   
 - Listing the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name, and start and end employment dates
