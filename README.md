@@ -7,8 +7,8 @@
 - Specifing data types, primary keys, foreign keys, and other constraints 
 - Import each CSV file into the corresponding SQL table 
    
-## Data Analysis  
-- Listing the following details of each employee: employee number, last name, first name, gender, and salary
+## Data Analysis   
+- Listing the following details of each employee: employee number, last name, first name, gender, and salary 
 - Listing employees who were hired in 1986   
 - Listing the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name, and start and end employment dates
 - Listing the department of each employee with the following information: employee number, last name, first name, and department name
